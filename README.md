@@ -1,7 +1,6 @@
 <div>
     <h2>Bio</h2>
-    <p>👨‍💻 Front-End Developer (self-taught)</p>
-    <p>🏡 Ontario, Canada</p>
+    <p>👨‍💻 Front-End Developer (self-taught) | 🏡 Ontario, Canada</p>
     <p>
 <div>
     <h2>Social</h2>
