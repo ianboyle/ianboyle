@@ -2,8 +2,7 @@
     <h2>Bio</h2>
     <p>👨‍💻 Front-End Developer (self-taught)</p>
     <p>🏡 Ontario, Canada</p>
-    <p>
-<div>
+</div>
     <h2>Social</h2>
         <a href="https://twitter.com/ianwboyle">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter Badge" width="25" height="25"/>
@@ -30,6 +29,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="25" height="25"/>&nbsp;
+        </br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;
