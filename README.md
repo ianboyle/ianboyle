@@ -1,5 +1,6 @@
 ## Bio
 💻 Front-End Developer
+</br>
 🏡 Ontario, Canada
     
 ## Social
