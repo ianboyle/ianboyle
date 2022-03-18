@@ -1,4 +1,7 @@
 <div>
+    <h1>Bio</h1>
+    <p>Self-taught Front-End Developer</p>
+<div>
     <h1>Social</h1>
         <a href="https://twitter.com/ianwboyle">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter Badge" width="40" height="40"/>
