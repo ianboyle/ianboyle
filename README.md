@@ -1,6 +1,7 @@
 <div>
     <h2>Bio</h2>
-    <p>👨‍💻 Front-End Developer (self-taught) | 🏡 Ontario, Canada</p>
+    <p>👨‍💻 Front-End Developer (self-taught)</p>
+    <p>🏡 Ontario, Canada</p>
     <p>
 <div>
     <h2>Social</h2>
@@ -28,7 +29,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25" height="25"/>&nbsp;
-        </br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="25" height="25"/>&nbsp;
@@ -39,7 +39,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SaSS" alt="Sass" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp;
-        </br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="25" height="25"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="25" height="25"/>&nbsp;
 </div>
