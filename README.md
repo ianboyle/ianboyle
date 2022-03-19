@@ -12,6 +12,7 @@
 ## Tools
 <img src="https://user-images.githubusercontent.com/101611997/159098051-8ffba30a-33fa-45ed-a613-8e55a25abb33.png" title="Visual Studio Code" alt="Visual Studio Code" width="25" height="25"/>&nbsp; 
 <img src="https://user-images.githubusercontent.com/101611997/159098126-e3188863-e727-4d37-8c60-27f47db9c306.png" title="Firefox" alt="Firefox" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="25" height="25"/>&nbsp;
 
 ## Language
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp; 
