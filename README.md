@@ -1,6 +1,6 @@
 
 ## Bio
-👨‍💻 Front-End Developer
+👨‍💻 Jr Front-End Developer
 <br>
 🏡 Ontario, Canada
     
