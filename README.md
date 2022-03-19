@@ -9,7 +9,11 @@
 <a href="https://www.linkedin.com/in/ian-boyle-80a57a234/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="25" height="25"/> </a>
 <a href="https://www.instagram.com/ianwboyle/"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram badge" width="25" height="25"/></a>
 
-## Toolbox
+## Tools
+<img src="https://user-images.githubusercontent.com/101611997/159098051-8ffba30a-33fa-45ed-a613-8e55a25abb33.png" title="Visual Studio Code" alt="Visual Studio Code" width="25" height="25"/>&nbsp; 
+<img src="https://user-images.githubusercontent.com/101611997/159098126-e3188863-e727-4d37-8c60-27f47db9c306.png" title="Firefox" alt="Firefox" width="25" height="25"/>&nbsp;
+
+## Language
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;
