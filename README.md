@@ -1,6 +1,6 @@
 
 <h1> 
-    Hi 👋 My name is Ian Boyle 
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Ian Boyle 
 </h1>
 
 
