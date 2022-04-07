@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Ian Boyle 
+# About Me
  
 🌐 Web3 Development | 📦 Blockchain + ⛵️ NFTs + 🚀 DeFi + 🔮 Metaverse <br>
 🖥️ www... <br>
