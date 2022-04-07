@@ -3,7 +3,7 @@
 🍁 Canada <br>
 👨🏻‍💻 Web3 Developer <br>
 🖥️ See my portfolio at <br>
-📧 Contact me at <br>
+📧 iboyle@hotmail.com
 
 ## Skills 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="25" height="25"/>&nbsp; 
