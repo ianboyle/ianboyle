@@ -2,6 +2,7 @@
  
 🍁 Canada <br>
 👨🏻‍💻 Web3 Developer <br>
+🌐 Web3 Development | 📦 Blockchain + ⛵️ NFTs + 🚀 DeFi + 🔮 Metaverse <br>
 🖥️ See my portfolio at <br>
 📧 iboyle@hotmail.com
 
