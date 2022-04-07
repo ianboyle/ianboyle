@@ -1,10 +1,9 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Ian Boyle 
  
-🍁 Canada <br>
-👨🏻‍💻 Web3 Developer <br>
 🌐 Web3 Development | 📦 Blockchain + ⛵️ NFTs + 🚀 DeFi + 🔮 Metaverse <br>
-🖥️ See my portfolio at <br>
+🖥️ www...
 📧 iboyle@hotmail.com
+🍁 Canada <br>
 
 ## Skills 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="25" height="25"/>&nbsp; 
