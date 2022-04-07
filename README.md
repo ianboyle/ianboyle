@@ -19,4 +19,3 @@
 <a href="https://twitter.com/ianwboyle"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter Badge" width="25" height="25"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/ian-boyle-80a57a234/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="25" height="25"/> </a>&nbsp;
 
-![MetaMask_Fox svg]()
