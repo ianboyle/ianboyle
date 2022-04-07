@@ -1,7 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Ian Boyle 
  
-🍁 Ontario, Canada <br>
-👨🏻‍💻 Self-Taught Developer <br>
+🍁 Canada <br>
+👨🏻‍💻 Web3 Developer <br>
 🖥️ See my portfolio at <br>
 📧 Contact me at <br>
 
