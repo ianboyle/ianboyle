@@ -1,6 +1,7 @@
 ## About Me
  
-🌐 Web3 Development | 📦 Blockchain + ⛵️ NFTs + 🚀 DeFi + 🔮 Metaverse <br>
+🌐 Web3 Development <br>
+📦 Blockchain + ⛵️ NFTs + 🚀 DeFi + 🔮 Metaverse <br>
 🖥️ www... <br>
 📧 iboyle@hotmail.com <br>
 🍁 Canada <br>
