@@ -12,13 +12,11 @@
 <img src="https://user-images.githubusercontent.com/101611997/162218394-e78da14b-fb53-4ff4-b255-3a11f79b035a.png"  title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/101611997/162218019-02be9cc8-59c6-40b6-b7dc-cebb2922fbd0.png"  title="React" alt="React" width="30" height="25"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/101611997/162218025-ee08b4b9-58f8-4543-b3d8-fc969e21bca7.png"  title="Redux" alt="Redux" width="30" height="25"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/101611997/162250165-40da441f-613b-4d68-98f4-805add585474.png"  title="Next.js" alt="Next.js" width="25" height="25"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/101611997/162218375-2a3e6bbb-7527-4742-8e03-70e18e4614e4.png"  title="Tailwind CSS" alt="Tailwind CSS" width="25" height="25"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/101611997/162218387-45c8ea74-9da1-4199-b0d1-071993b2e0d5.png"  title="Firebase" alt="Firebase" width="18" height="25"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/101611997/162205722-f4b8bcf2-f271-4735-b39e-6b20936fa6ba.png"  title="Ethereum" alt="Ethereum" width="18" height="25"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/101611997/162252033-6343d3f5-6c12-42d9-9516-2c09d44f8f34.jpg"  title="Solidity" alt="Solidity" width="20" height="25" />&nbsp; 
-<img src="https://user-images.githubusercontent.com/101611997/162205694-67726a78-3cb9-4c31-b55e-2f97962ca7f9.png"  title="HardHat" alt="HardHat" width="32" height="25"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/101611997/162251374-716adccf-49a8-4a43-aa44-cf79c483bd2b.png"  title="Ethers" alt="Ethers" width="40" height="25"/>
+<img src="https://user-images.githubusercontent.com/101611997/162218375-2a3e6bbb-7527-4742-8e03-70e18e4614e4.png"  title="Tailwind CSS" alt="Tailwind CSS" width="25" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/101611997/162250165-40da441f-613b-4d68-98f4-805add585474.png"  title="Next.js" alt="Next.js" width="25" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/101611997/162218387-45c8ea74-9da1-4199-b0d1-071993b2e0d5.png"  title="Firebase" alt="Firebase" width="18" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/101611997/162205722-f4b8bcf2-f271-4735-b39e-6b20936fa6ba.png"  title="Ethereum" alt="Ethereum" width="18" height="26"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/101611997/162209674-cdf12e64-7056-47e6-9d43-6a14ceac91c4.png"  title="MetaMask" alt="MetaMask" width="25" height="25"/>&nbsp;
 
 ## Socials
