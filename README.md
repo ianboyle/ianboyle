@@ -8,13 +8,10 @@
 ## Skills 
 
 <img src="https://user-images.githubusercontent.com/101611997/162268619-761f67a3-b0a2-425f-b9a6-2e779899e9d0.png"  title="Ethereum" alt="Ethereum" width="19" height="27"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/101611997/162348332-46c8bda8-8952-4628-9862-bb6e2051cab3.png"  title="Solidity" alt="Solidity" width="17" height="25"/>&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/101611997/162348775-dc2e7466-5912-414a-8067-ae9ee28125d9.png"  title="Hardhat" alt="Hardhat" width="30" height="20"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/101611997/162348332-46c8bda8-8952-4628-9862-bb6e2051cab3.png"  title="Solidity" alt="Solidity" width="17" height="25"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/101611997/162218019-02be9cc8-59c6-40b6-b7dc-cebb2922fbd0.png"  title="React.js" alt="React.js" width="30" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/101611997/162450354-f2f79366-b4c0-4480-ba54-574f317a4923.png"  title="Sass" alt="Sass" width="30" height="25"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/101611997/162251374-716adccf-49a8-4a43-aa44-cf79c483bd2b.png"  title="Ethers.js" alt="Ethers.js" width="40" height="25"/>
-<img src="https://user-images.githubusercontent.com/101611997/162209674-cdf12e64-7056-47e6-9d43-6a14ceac91c4.png"  title="MetaMask" alt="MetaMask" width="25" height="25"/>&nbsp; 
-<img src="https://user-images.githubusercontent.com/101611997/162349858-5e7f1a5d-2f18-4078-8f4d-3a79fd580186.png "  title="OpenZeppelin" alt="Open Zeppelin" width="25" height="25"/>&nbsp; 
-<img src="https://user-images.githubusercontent.com/101611997/162349865-cf172975-13de-4649-a26a-33b111008761.png "  title="Waffle" alt="Waffle" width="25" height="25"/>&nbsp; 
 <img src="https://user-images.githubusercontent.com/101611997/162349876-ba18cc28-0cf7-4e95-b138-5741ff22cf0a.png"  title="Alchemy" alt="Alchemy" width="30" height="25"/>&nbsp; 
 
 
