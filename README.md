@@ -1,6 +1,6 @@
 ## About Me
 
-👨🏻‍💻 Blockchain Developer <br>
+👨🏻‍💻 Blockchain DApp Developer <br>
 🖥️ www... <br>
 📧 iboyle@hotmail.com <br>
 🍁 Canada <br>
