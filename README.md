@@ -1,3 +1,10 @@
+## Aout Me
+
+👨🏻‍💻 Blockchain Developer <br />
+📧 iboyle@hotmail.com <br />
+🍁 Canada <br />
+
+
 ## My Tech Stack
 <img src="https://user-images.githubusercontent.com/101611997/162268619-761f67a3-b0a2-425f-b9a6-2e779899e9d0.png"  title="Ethereum" alt="Ethereum" width="19" height="27"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/101611997/162650593-db41227d-63fc-4149-b4cb-f23bc332b74b.png"  title="Solana" alt="Solana" width="25" height="25"/>&nbsp;
