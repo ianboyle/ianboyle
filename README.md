@@ -1,10 +1,3 @@
-## About Me
-
-👨🏻‍💻 Blockchain DApp Developer <br>
-🖥️ www... <br>
-📧 iboyle@hotmail.com <br>
-🍁 Canada <br>
-
 ## SKILLS
 
 #### Ethereum Network
