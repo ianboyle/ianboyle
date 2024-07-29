@@ -1,7 +1,7 @@
-** 🎨 Junior Front-End Apprentice **
-** 🧪 Expirimenting w/ CSS **
-** 🔐 Web Application Security **
-** 🎮 Indie Game Development **
+🎨 **Junior Front-End Apprentice**
+🧪 **Expirimenting w/ CSS**
+🔐 **Web Application Security**
+🎮 **Indie Game Development**
 
 
 <!--
