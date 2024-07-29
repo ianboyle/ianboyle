@@ -6,7 +6,7 @@
 # Skills
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fjavascript%2Flogo-javascript-1024.png&f=1&nofb=1&ipt=bc12601ecf0d627508f30b2bdaa711a696fb37d676da14061b377bfebb13fa24&ipo=images" alt="description" width="30" height="30">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fjavascript%2Flogo-javascript-1024.png&f=1&nofb=1&ipt=bc12601ecf0d627508f30b2bdaa711a696fb37d676da14061b377bfebb13fa24&ipo=images" alt="description" width="40" height="40">
 
 
 Always learning, always creating. Let's build something amazing together!
