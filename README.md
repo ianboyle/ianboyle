@@ -1,6 +1,9 @@
-# 👋 Hello World! I'm Ian
+## 🎨 Junior Front-End Apprentice
+## 🧪 Expirimenting w/ CSS Designs + Animations
+## 🔐 Web Application Security
+## 🎮 Indie Game Development
 
-## 🎨 Front-End Fanatic | 🔒 Security Sleuth | 🎮 Game Dev Enthusiast
+
 <!--
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
