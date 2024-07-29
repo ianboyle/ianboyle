@@ -3,6 +3,8 @@
 🔐 **Web Application Security**  \
 🎮 **Indie Game Development**  
 
+Always learning, always creating. Let's build something amazing together!
+
 ## Tech Stack
 
 <!-- HTML --> 
@@ -10,7 +12,7 @@
 
 
 
-Always learning, always creating. Let's build something amazing together!
+
 
 <!--
 > [!NOTE]  
