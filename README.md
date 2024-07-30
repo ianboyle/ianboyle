@@ -1,4 +1,4 @@
-📱 **Mobile App Dev**  \
+📱 **Android Mobile App Dev**  \
 🧪 **Expirimenting w/ Kotlin Multiplatform**  \
 🔐 **Web Application Security**  \
 🎮 **Indie Game Development**  
