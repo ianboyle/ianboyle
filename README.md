@@ -1,5 +1,5 @@
-🎨 **Front-End Apprentice**  \
-🧪 **Expirimenting w/ CSS**  \
+📱 **Mobile App Dev**  \
+🧪 **Expirimenting w/ Kotlin Multiplatform**  \
 🔐 **Web Application Security**  \
 🎮 **Indie Game Development**  
 
