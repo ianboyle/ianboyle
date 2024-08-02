@@ -1,7 +1,7 @@
 ## W3lc0me!
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogolook.net%2Fwp-content%2Fuploads%2F2021%2F07%2FAndroid-Emblem-1536x864.png&f=1&nofb=1&ipt=41bf387d4e78aae34e23a17016e70ca8c2098ef2d786a161ed968fd96328a9cb&ipo=images" alt="description" width="15" height="10">&nbsp; | **Android Developer**  \
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fworldline.github.io%2Flearning-kotlin-multiplatform%2Flogo.png&f=1&nofb=1&ipt=864aab5691ad53cfb17b3a08e4f5823a3e4ba090690f8653f5a62b4483f89edf&ipo=images" alt="description" width="15" height="15">&nbsp; | **Kotlin**  \
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F4479d2a2c854198cb00160f8593519c14dc3b905%2Ftopics%2Fkotlin%2Fkotlin.png&f=1&nofb=1&ipt=790d4027e4c2833a9460b33100c20744bb7360e79906538363b989b78988e18a&ipo=images" width="15" height="15">&nbsp; | **Kotlin**  \
 🔐 | **Web App Security**  \
 🎮 | **Indie Game Dev**  
 
