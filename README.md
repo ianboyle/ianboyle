@@ -17,7 +17,6 @@
 ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Turso](https://img.shields.io/badge/-Turso-4FF7D2?style=flat-square&logo=turso&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Kinde](https://img.shields.io/badge/-Kinde-FF5733?style=flat-square&logo=kinde&logoColor=white)
 
 ### 🏗 SaaS Infrastructure
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
