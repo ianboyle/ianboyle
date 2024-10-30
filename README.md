@@ -15,7 +15,7 @@
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Turso](https://img.shields.io/badge/-Turso-4FF7D2?style=flat-square&logo=turso&logoColor=black)
+![Neon](https://img.shields.io/badge/-Neon-00AFF5?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🏗 SaaS Infrastructure
