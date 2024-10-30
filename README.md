@@ -6,12 +6,6 @@
 ### 🎨 Frontend Development
 <img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="50" height="50" alt="React Logo"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="50" height="50" alt="NextJS Logo"> <img src="https://img.icons8.com/fluency/452/tailwind_css.png" width="50" height="50" alt="Tailwind Logo">
 
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
 ### 🛠 Backend Development
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
