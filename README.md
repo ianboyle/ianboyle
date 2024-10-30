@@ -4,7 +4,7 @@
 <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="50" alt="HTML Logo"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="50" height="50" alt="CSS Logo"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="50" height="50" alt="HTML Logo">&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50.5" height="50.5" alt="HTML Logo">
 
 ### 🎨 Frontend Development
-<img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="45" height="50" alt="HTML Logo"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="50" height="50" alt="CSS Logo"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="50" height="50" alt="HTML Logo">
+<img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="50" height="50" alt="HTML Logo"> <img src="https://duckduckgo.com/?q=next+js+logo&t=ffab&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fportfolio.iyarles.net%2Fimages%2Fnextjs.png" width="50" height="50" alt="CSS Logo"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FTailwind_CSS_Logo.svg%2F1024px-Tailwind_CSS_Logo.svg.png%3F20230715030042&f=1&nofb=1&ipt=62a8bf91c841935078a64808b9f6375b265fb6220afe2a8f171e7081d2390b3d&ipo=images" width="50" height="50" alt="HTML Logo">
 
 
 
