@@ -4,6 +4,10 @@
 <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="50" alt="HTML Logo"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="50" height="50" alt="CSS Logo"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="50" height="50" alt="HTML Logo">&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50.5" height="50.5" alt="HTML Logo">
 
 ### 🎨 Frontend Development
+<img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="45" height="50" alt="HTML Logo"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="50" height="50" alt="CSS Logo"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="50" height="50" alt="HTML Logo">
+
+
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
