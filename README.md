@@ -4,7 +4,7 @@
 <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="50" alt="HTML Logo"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="50" height="50" alt="CSS Logo"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="50" height="50" alt="JavaScript Logo">&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50.5" height="50.5" alt="Typescript Logo">
 
 ### 🎨 Frontend Development
-<img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="50" height="50" alt="React Logo"> <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" width="50" height="50" alt="NextJS Logo"> <img src="https://img.icons8.com/fluency/452/tailwind_css.png" width="50" height="50" alt="Tailwind Logo">
+<img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="40" height="40" alt="React Logo"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="50" height="50" alt="NextJS Logo"> <img src="https://img.icons8.com/fluency/452/tailwind_css.png" width="50" height="50" alt="Tailwind Logo">
 
 
 
