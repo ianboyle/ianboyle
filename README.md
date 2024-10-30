@@ -7,7 +7,7 @@
 <img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="50" height="50" alt="React Logo"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="50" height="50" alt="NextJS Logo"> <img src="https://img.icons8.com/fluency/452/tailwind_css.png" width="50" height="50" alt="Tailwind Logo">
 
 ### 🛠 Backend Development
-<img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="45" height="50" alt="Bun Logo"> <img src="https://vectorseek.com/wp-content/uploads/2023/09/Hono-Logo-Vector.svg-.png" width="50" height="50" alt="Hono Logo"> <img src="https://community.neon.tech/uploads/default/original/1X/7d9c2fe1924470ab649c75f01a04dae08f910420.png" width="50" height="50" alt="Neon Logo">&nbsp; <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" width="50.5" height="50.5" alt="Drizzle Logo">
+<img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="50" height="50" alt="Bun Logo"> <img src="https://vectorseek.com/wp-content/uploads/2023/09/Hono-Logo-Vector.svg-.png" width="40" height="50" alt="Hono Logo"> <img src="https://community.neon.tech/uploads/default/original/1X/7d9c2fe1924470ab649c75f01a04dae08f910420.png" width="50" height="50" alt="Neon Logo">&nbsp; <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" width="50.5" height="50.5" alt="Drizzle Logo">
 
 <!--
 > [!NOTE]  
