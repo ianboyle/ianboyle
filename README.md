@@ -7,24 +7,7 @@
 <img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="50" height="50" alt="React Logo"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="50" height="50" alt="NextJS Logo"> <img src="https://img.icons8.com/fluency/452/tailwind_css.png" width="50" height="50" alt="Tailwind Logo">
 
 ### 🛠 Backend Development
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🏗 SaaS Infrastructure
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white)
-
-### ⚙️ Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### 🧪 Testing & Quality
-![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+<img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="45" height="50" alt="Bun Logo"> <img src="https://vectorseek.com/wp-content/uploads/2023/09/Hono-Logo-Vector.svg-.png" width="50" height="50" alt="Hono Logo"> <img src="https://community.neon.tech/uploads/default/original/1X/7d9c2fe1924470ab649c75f01a04dae08f910420.png" width="50" height="50" alt="Neon Logo">&nbsp; <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" width="50.5" height="50.5" alt="Drizzle Logo">
 
 <!--
 > [!NOTE]  
