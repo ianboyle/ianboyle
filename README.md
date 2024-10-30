@@ -2,7 +2,11 @@
 
 ### 🌱 Foundations
 <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="50" alt="HTML Logo">
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="45" height="50" alt="CSS Logo">
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="45" height="50" alt="HTML Logo">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="45" height="50" alt="HTML Logo">
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
